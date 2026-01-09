@@ -1,14 +1,14 @@
 Hi there 👋
 
-This is the GitHub of the Game Development Center YouTube channel. 
+This is the GitHub of the Game Development Center YouTube channel.
 
-Every tutorial (series) made with Godot 4.x and later has two repositories. One Public, containing the base starting project. One Private, containing the final state at the end of the tutorial. 
+Every tutorial (series) made with Godot 4.x and later has two repositories. One Public, containing the base starting project. One Private, containing the final state at the end of the tutorial.
 
-The public repositories can be viewed and cloned by anyone. Access to the private repository is a perk of being a YouTube or Patreon member. 
+The public repositories can be viewed and cloned by anyone. Access to the private repository is a perk for being a YouTube or Patreon member (Coder and above).
 
-As of now, we am not familiar with a tool that automates the access so this remains a manual exercise for now. If you have decided to become a YouTube or Patreon member, please reach out on Discord with your GitHub user name.
+Currently, I'm not familiar with a tool that automates the access. So this remains a manual task for now. If you have decided to join the GDC club (Patreon, YouTube) on the coder level or above, please reach out on Discord and share your GitHub username.
 
-Cheers,  
+Cheers,
 Stefan
 <!--
 
